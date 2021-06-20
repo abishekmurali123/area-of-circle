@@ -1,0 +1,5 @@
+r = input("enter tyhe radius")
+print(" Input the radius of the circle : ".r)
+a= 3.14
+pi = int(a)
+print("The area of the circle with radius",r,"is:",2*pi*r)
